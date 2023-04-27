@@ -61,7 +61,7 @@ export const getRetiros = () => {
                 `
                 contenedodr.innerHTML = html;
             }
-            if (doc.val().Caja == "Caja País") {
+            if (doc.val().Caja == "Caja Pais") {
                 html += `
                   <table class="table mt-5">
                       <thead >
